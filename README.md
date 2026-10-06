@@ -1,3 +1,10 @@
+
+   ## Team
+   - Nayan Prakash (team leader)
+   - Divyanshu Singh Chauhan
+   - Aditya Jarwal
+
+
 # Hybrid Classical-Quantum Transfer Learning for Diabetic Retinopathy Screening
 
 Binary DR vs No-DR screening on APTOS 2019. A pretrained ResNet50 gives 2048-D features, a trainable layer reduces them to n values, and a PennyLane-simulated variational circuit (dressed quantum circuit, as in Bali et al., MethodsX 14, 103185, 2025) classifies them. A matched classical control replaces only the quantum circuit.
